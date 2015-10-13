@@ -5,3 +5,5 @@ CCC
 Kimi
 /*NEW FEATURE*/
 iced coffee for working
+hot coffee
+coke
