@@ -7,3 +7,7 @@ Kimi
 iced coffee for working
 hot coffee
 coke
+
+/*Meal*/
+Pasta
+roll cake
