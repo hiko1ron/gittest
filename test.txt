@@ -16,7 +16,11 @@ iced coffee for working
 hot coffee
 coke
 
+/*Meal*/
+Pasta (kimi)
+roll cake (Hiko)
+今日のランチは鯵丼！(Oayama)
 
-Ryosk
-/*NEW FEATURE*/
-今日のランチは鯵丼！
+/*seasoning*/
+Pepper
+Salt
