@@ -1,6 +1,14 @@
 AAA
 BBB
 CCC
+OOO
+YYY
+AAA
+MMM
+AAA
+RRR
+YYY
+OOO
 
 Kimi
 /*NEW FEATURE*/
@@ -9,8 +17,9 @@ hot coffee
 coke
 
 /*Meal*/
-Pasta
-roll cake
+Pasta (kimi)
+roll cake (Hiko)
+今日のランチは鯵丼！(Oayama)
 
 /*seasoning*/
 Pepper
