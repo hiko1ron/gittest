@@ -15,3 +15,8 @@ Kimi
 iced coffee for working
 hot coffee
 coke
+
+
+Ryosk
+/*NEW FEATURE*/
+今日のランチは鯵丼！
