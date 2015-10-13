@@ -11,3 +11,7 @@ coke
 /*Meal*/
 Pasta
 roll cake
+
+/*seasoning*/
+Pepper
+Salt
